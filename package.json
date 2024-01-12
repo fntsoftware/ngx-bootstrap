@@ -81,7 +81,7 @@
     "@types/marked": "0.0.28",
     "@types/node": "7.0.15",
     "@types/webpack": "^2.2.2",
-    "bootstrap": "3.3.7",
+    "bootstrap": "3.4.1",
     "classlist-polyfill": "1.0.3",
     "codecov": "2.1.0",
     "codelyzer": "3.0.1",
